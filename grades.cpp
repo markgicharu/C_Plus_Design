@@ -10,8 +10,16 @@ int main()
   int mark;
   
   //prompt the user to enter the grades
-  cout<< "======Please enter your grades below=====""\;
-  cin>>
+  cout<< "======Please enter your grades below====="\;
+  cin>> mark;
+  if(mark >= 50)
+  {
+    cout<<"Passed"\;
+  }
+  else
+  {
+    cout<<"Failed"\;
+  }
   
 }
 
