@@ -6,7 +6,7 @@ using namespace std;
 int main()//execution starts here
 {
   //declare variables
-  double Fquiz,Squiz
+  double Fquiz,Squiz,Tquiz,
   
   
 }
