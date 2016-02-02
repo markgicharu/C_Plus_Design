@@ -33,7 +33,8 @@ int main()
     cout<<"A"<<endl;
   }
   else
+  {
   cout<<"Enter a grade between 0 and 100"<<end1;
-  
+  }
   return 0;
 }
