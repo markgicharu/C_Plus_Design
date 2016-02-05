@@ -11,7 +11,9 @@ int main ()
   int f = 15;
   float w = 12.6;
   //process starts here
-  cout<< 
+  cout<< t, f, w;
+  
+  return 0;
   
   
 }
