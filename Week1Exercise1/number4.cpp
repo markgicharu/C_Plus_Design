@@ -8,10 +8,12 @@ int main ()
   char age;
   
   //process begins here
-  cout<<"Please enter your name below?";<<endl
+  cout<<"Please enter your name below?"<<endl;
   cin>> age;
-  cout<< age;
+  cout<<"Your name is "<<endl;
+  cout<< age<<endl;
   
   return 0;
   
 }
+  
