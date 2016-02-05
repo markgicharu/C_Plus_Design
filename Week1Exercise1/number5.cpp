@@ -12,5 +12,9 @@ int a, b, c;
 
 cout<< "Enter the numbers?"<<endl;
 cin>> abc;
-cout<<
+cout<< abc<<endl;
+cout<< cba<<endl;
+
+return 0;
+
 }
